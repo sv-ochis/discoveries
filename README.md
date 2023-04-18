@@ -5,6 +5,6 @@ a place to document my discoveries in different areas
 https://github.com/sv-ochis/discoveries/issues
 
 # why
-• fast and easy to use, editor
-• free hosting and image storage
-• API for backup
+- fast and easy to use, editor
+- free hosting and image storage
+- API for backup
